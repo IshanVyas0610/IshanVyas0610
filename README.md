@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **ishaan.vyas@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1LfDDlcbLhVtma-0BKaFYA3yFZZ46TKXM/edit?usp=sharing&ouid=111699331361449624854&rtpof=true&sd=true](https://docs.google.com/document/d/1LfDDlcbLhVtma-0BKaFYA3yFZZ46TKXM/edit?usp=sharing&ouid=111699331361449624854&rtpof=true&sd=true)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1lRWOsYeIody1coRhsCvwhf_C-sd2bpkd/view?usp=sharing](https://docs.google.com/document/d/1LfDDlcbLhVtma-0BKaFYA3yFZZ46TKXM/edit?usp=sharing&ouid=111699331361449624854&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
