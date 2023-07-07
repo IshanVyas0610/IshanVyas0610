@@ -8,6 +8,9 @@
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Hj2o4Rlo1gVngjAo1v-XF9iYUjODK3IM/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="ishan-vyas06" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/ishan-vyas06?trk=profile-badge">Ishan Vyas</a></div>
+              
 <p align="left">
 <a href="https://www.linkedin.com/in/ishan-vyas06/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ishan-vyas06/" height="30" width="40" /></a>
 </p>
