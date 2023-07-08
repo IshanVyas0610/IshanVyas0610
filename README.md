@@ -1,6 +1,5 @@
 <div align="center">
   <img height="150" src="https://i.makeagif.com/media/7-08-2023/Ug8GyK.gif"  />
-  <a href="/gif/the-hand-Ug8GyK" title="The Hand"><img src="https://i.makeagif.com/media/7-08-2023/Ug8GyK.gif" alt="The Hand"></a>
 </div>
 
 ###
@@ -93,13 +92,18 @@
 
 ###
 
-<p align="left">Reach me @ **ishaan.vyas@gmail.com** </p>
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Hj2o4Rlo1gVngjAo1v-XF9iYUjODK3IM/view?usp=sharing)
-LinkedIn: <a href="https://www.linkedin.com/in/ishan-vyas06/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/ishan-vyas06/" height="30" width="40" height="40" alt="linkedin logo"  />
+<img src="https://raw.githubusercontent.com/IshanVyas0610 /IshanVyas0610 /output/snake.svg" alt="Snake animation" />
 
 ###
 
-<img src="https://raw.githubusercontent.com/IshanVyas0610 /IshanVyas0610 /output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <a href="https://www.linkedin.com/in/ishan-vyas06/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="ishaan.vyas@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
 
 ###
 
