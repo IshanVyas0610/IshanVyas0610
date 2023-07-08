@@ -1,5 +1,5 @@
 <div align="center">
-  ![The Hand]([https://i.makeagif.com/media/7-08-2023/Ug8GyK.gif](https://github.com/IshanVyas0610/The-Mimicking-Hand/blob/main/Media/The_Hand.gif))
+  ![The Hand](https://github.com/IshanVyas0610/The-Mimicking-Hand/blob/main/Media/The_Hand.gif)
 </div>
 
 ###
