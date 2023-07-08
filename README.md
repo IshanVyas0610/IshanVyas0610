@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://github.com/IshanVyas0610/The-Mimicking-Hand/blob/main/Media/Hand%20gif.gif"  />
+  <img height="100" src="https://github.com/IshanVyas0610/The-Mimicking-Hand/blob/main/Media/Hand%20gif.gif"  />
 </div>
 
 ###
