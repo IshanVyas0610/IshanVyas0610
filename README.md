@@ -1,6 +1,5 @@
-<div align="center">
-  ![The Hand](https://github.com/IshanVyas0610/The-Mimicking-Hand/blob/main/Media/The_Hand.gif)
-</div>
+![](https://github.com/IshanVyas0610/The-Mimicking-Hand/blob/main/Media/The_Hand.gif)
+
 
 ###
 
