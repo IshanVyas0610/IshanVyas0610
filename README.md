@@ -1,6 +1,6 @@
-<div align="center">
+<p align="center">
   ![](https://github.com/IshanVyas0610/The-Mimicking-Hand/blob/main/Media/The_Hand.gif)
-</div>
+</p>
 
 ###
 
