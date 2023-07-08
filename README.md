@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://i.makeagif.com/media/7-08-2023/Ug8GyK.gif"  />
+  ![The Hand](https://i.makeagif.com/media/7-08-2023/Ug8GyK.gif)
 </div>
 
 ###
