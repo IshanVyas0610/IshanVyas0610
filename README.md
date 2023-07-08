@@ -1,5 +1,5 @@
 <p align="center">
-  ![](https://github.com/IshanVyas0610/The-Mimicking-Hand/blob/main/Media/The_Hand.gif)
+![](https://github.com/IshanVyas0610/The-Mimicking-Hand/blob/main/Media/The_Hand.gif)
 </p>
 
 ###
