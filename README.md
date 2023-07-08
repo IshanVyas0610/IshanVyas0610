@@ -1,7 +1,7 @@
 <div align="center">
   ![The Hand](https://i.makeagif.com/media/7-08-2023/Ug8GyK.gif)
 </div>
-
+![The Hand](https://i.makeagif.com/media/7-08-2023/Ug8GyK.gif)
 ###
 
 <br clear="both">
