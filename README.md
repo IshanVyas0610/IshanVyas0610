@@ -93,7 +93,8 @@
 
 ###
 
-<p align="left">Reach me @ **ishaan.vyas@gmail.com** <br>[My resume](https://drive.google.com/file/d/1Hj2o4Rlo1gVngjAo1v-XF9iYUjODK3IM/view?usp=sharing)</p>
+<p align="left">Reach me @ **ishaan.vyas@gmail.com** </p>
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Hj2o4Rlo1gVngjAo1v-XF9iYUjODK3IM/view?usp=sharing)
 LinkedIn: <a href="https://www.linkedin.com/in/ishan-vyas06/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/ishan-vyas06/" height="30" width="40" height="40" alt="linkedin logo"  />
 
 ###
