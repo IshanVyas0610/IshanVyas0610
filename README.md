@@ -1,6 +1,6 @@
 <div align="center">
   <img height="150" src="https://i.makeagif.com/media/7-08-2023/Ug8GyK.gif"  />
-  <a href="/gif/the-hand-Ug8GyK" title="The Hand"><img src="https://i.makeagif.com/media/7-08-2023/Ug8GyK.gif" alt="The Hand"></a><div style="font-size:11px;">make <a href="/" title="make a gif">science GIFs</a> like this at MakeaGif</div>
+  <a href="/gif/the-hand-Ug8GyK" title="The Hand"><img src="https://i.makeagif.com/media/7-08-2023/Ug8GyK.gif" alt="The Hand"></a>
 </div>
 
 ###
