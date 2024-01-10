@@ -88,7 +88,7 @@
 
 - 📫 How to reach me **ishaan.vyas@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1asJD55JvliqtFQP5C4HukV5wDAxj_pn2/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1K6zx30l4dWIWyjj2Gphw7d0pxONy2JAg/view?usp=sharing)
 
 
 <div align="center">
