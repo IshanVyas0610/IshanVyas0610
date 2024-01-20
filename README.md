@@ -16,7 +16,7 @@
 
 ###
 
-<h5 align="left">I'm from Pune, India. Currently residing in Tempe, Arizona. <br><br>- 🤖 I’m a pioneering Mechanical Engineering graduate having a Master's degree in Robotics and Autonomous Systems.<br>- 👀 I'm interested in Mechatronics, Medical robotics, and prosthetics. <br>- ⚡ I'm currently looking for full-time opportunities in the fields of Robotics and Mechanical Design.</h5>
+<h5 align="left">I'm from Pune, India. Currently residing in Tempe, Arizona. <br><br>- 🤖 I’m a pioneering Mechanical Engineering graduate having a Master's degree in Robotics and Autonomous Systems.<br>- 👀 I'm interested in Autonomous Robots, Mechatronics, Medical robotics, and prosthetics. <br>- ⚡ I'm currently looking for full-time opportunities in the fields of Robotics and Mechanical Design.</h5>
 
 ###
 
